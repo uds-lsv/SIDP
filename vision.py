@@ -16,5 +16,6 @@ if args.dataset == 'mnist':
 elif args.dataset == 'cifar10':
      from src.cifar10.train import main
 
+
 main(args.noise_multiplier, args.clip, args.lr, args.batch_size, args.epochs, args.normalization_type, args.device)
 
