@@ -1,7 +1,7 @@
 # SIDP
 
 The PyTorch implementation of 'Robust Differentially Private Training of Deep Neural Networks'. 
-
+https://arxiv.org/abs/2006.10919
 
 ## Usage
 
